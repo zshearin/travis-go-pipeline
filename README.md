@@ -1,4 +1,4 @@
-# travis-go-gipeline
+# travis-go-pipeline
 trying to get a hello world travis go pipeline operational
 
 also looking into creating two golang docker images that communicate with one another
